@@ -18,10 +18,10 @@ Pattern matching and text extraction using regex.
 Text normalization techniques, including tokenization, lowercasing, stopword removal, and lemmatization
 
 **Assignment 4 — Sequence Labeling (POS & NER)**  
-Implemented sequence labeling models for part-of-speech tagging and named entity recognition.  
+Part-of-speech tagging and named entity recognition as sequence labeling tasks.  
 
 **Assignment 5 — Information Extraction**  
-Extracted structured information from unstructured text.  
+Basic relation extraction patterns and built small knowledge graph visualizations.  
 
 **Assignment 6 — Sentiment Analysis**  
 Built a classifier for polarity detection in text.  
