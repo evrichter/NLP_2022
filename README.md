@@ -1,6 +1,6 @@
 # 📘 Natural Language Processing (SS 2022)  
 
-This repository contains my solutions for **eight weekly assignments** from the *Natural Language Processing* course at **Universitat Pompeu Fabra (Barcelona)** in the **summer semester 2022**.  
+This repository contains my solutions for **eight weekly assignments** and a final essay from the *Natural Language Processing* course at **Universitat Pompeu Fabra (Barcelona)** in the **summer semester 2022**.  
 
 The assignments covered practical implementations of core NLP techniques, ranging from basic text processing to neural language models.  
 
