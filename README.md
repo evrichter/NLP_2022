@@ -21,13 +21,13 @@ Text normalization techniques, including tokenization, lowercasing, stopword rem
 Part-of-speech tagging and named entity recognition as sequence labeling tasks.  
 
 **Assignment 5 — Information Extraction**  
-Basic relation extraction patterns and built small knowledge graph visualizations.  
+Basic relation extraction patterns and knowledge graph visualizations.  
 
 **Assignment 6 — Sentiment Analysis**  
-Built a classifier for polarity detection in text.  
+Sentiment classifier for tweets using a Naive Bayes model.  
 
 **Assignment 7 — Word Embeddings**  
-Worked with distributional semantics and vector representations of words.  
+Simple movie recommender system using plot description embeddings and cosine similarity.  
 
 **Assignment 8 — Neural Language Models**  
-Implemented and experimented with simple neural models for language modeling.  
+Experimentation with simple neural models for language modeling.  
